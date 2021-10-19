@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sää</string>
+    <string name="title">Tampere sää</string>
+    <string name="update">Päivitä</string>
+    <string name="weather_desc">Aurinkoista</string>
+    <string name="language">Kieli</string>
+    <string name="forecast">Ennuste</string>
+</resources>

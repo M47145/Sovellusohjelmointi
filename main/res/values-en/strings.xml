@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title">Tampere weather</string>
+    <string name="update">Update</string>
+    <string name="weather_desc">Sunny</string>
+    <string name="language">Language</string>
+    <string name="forecast">Forecast</string>
+</resources>
